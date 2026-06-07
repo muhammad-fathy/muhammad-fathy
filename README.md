@@ -66,12 +66,12 @@ contact:    muhammad.fathy00209@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarus-conf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarus-conf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammad-fathy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fathy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icarus-conf&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-fathy&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 ---
